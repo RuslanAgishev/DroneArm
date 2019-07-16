@@ -1,0 +1,14 @@
+timestamp,condition_calibration_enabled,condition_system_sensors_initialized,condition_system_hotplug_timeout,condition_system_returned_to_home,condition_auto_mission_available,condition_global_position_valid,condition_home_position_valid,condition_local_position_valid,condition_local_velocity_valid,condition_local_altitude_valid,condition_power_input_valid,condition_battery_healthy,circuit_breaker_engaged_power_check,circuit_breaker_engaged_airspd_check,circuit_breaker_engaged_enginefailure_check,circuit_breaker_engaged_gpsfailure_check,circuit_breaker_flight_termination_disabled,circuit_breaker_engaged_usb_check,circuit_breaker_engaged_posfailure_check,offboard_control_signal_found_once,offboard_control_signal_lost,offboard_control_set_by_command,offboard_control_loss_timeout,rc_signal_found_once,rc_input_blocked,rc_calibration_valid,vtol_transition_failure,usb_connected,avoidance_system_required,avoidance_system_valid
+51414357,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+52416980,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+53417178,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+54422655,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+55424600,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+56430808,0,1,1,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+57432301,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+58434209,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+59442152,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+60448269,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+61461384,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+62465437,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
+63032486,0,1,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0
